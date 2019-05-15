@@ -2,7 +2,10 @@
 #### By [Tiffany Bacher](https://github.com/tiffanybacher) & [Jacob Bogart](https://github.com/jacobogart)
 An educational project utilizing React, Redux, and Router to create a movie database tool with search, favoriting and account features. 
 
-![MovieTracker Screenshot](https://media.giphy.com/media/Ymba3bAkhmS72DRx8I/giphy.gif)
+## Features
+
+Search and favorite any movie in The Movie Database
+![Search Screenshot](https://media.giphy.com/media/kaTbmsyIVCtiqg7vHp/giphy.gif)
 
 ## Installation - Front-End
 Clone the repo - https://github.com/jacobogart/MovieTracker.git
