@@ -4,7 +4,16 @@ An educational project utilizing React, Redux, and Router to create a movie data
 
 ## Features
 
-Search and favorite any movie in The Movie Database
+* Login, logout and or create a new account 
+![Account Screenshot](https://media.giphy.com/media/iheZFJ0MMD2YuL4UzH/giphy.gif)
+
+* Easily view and edit favorite movies
+![Favoriting Screenshot](https://media.giphy.com/media/XHvdNeL4fWXRlMUM0b/giphy.gif)
+
+* Prompts user to login when favoriting without an account
+![Prompt Screenshot](https://media.giphy.com/media/JRhJjES0pj1rcPX6AF/giphy.gif)
+
+* Search and favorite any movie in The Movie Database
 ![Search Screenshot](https://media.giphy.com/media/kaTbmsyIVCtiqg7vHp/giphy.gif)
 
 ## Installation - Front-End
